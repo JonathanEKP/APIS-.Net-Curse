@@ -1,0 +1,5 @@
+C:\Users\thorn\Desktop\API-C#\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+C:\Users\thorn\Desktop\API-C#\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorn\Desktop\API-C#\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+C:\Users\thorn\Desktop\API-C#\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+C:\Users\thorn\Desktop\API-C#\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
